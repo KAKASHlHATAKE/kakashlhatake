@@ -1,13 +1,11 @@
-
+*
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀
 <div align="center">
 
 
-![]([https://komarev.com/ghpvc/?username=ZPIIDR&color=c67188&label=✧&style=plastic](https://i.ibb.co/kkwhH6M/image-2026-10-18-033800148.png))
 
-
-<p align="center"> <img width="470" src="https://i.ibb.co/YBz13LP3/Untitled717-20260305123958.png"/>
+<p align="center"> <img width="470" src="https://i.ibb.co/kkwhH6M/image-2026-10-18-033800148.png"/>
 
 
 
